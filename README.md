@@ -18,3 +18,6 @@ The Android App can be found [here](https://github.com/privacyidea/privacyidea-a
 See the issues.
 
 Ideas and pull requests are welcome.
+
+By [Dmytro Nasyrov, Founder, CTO at Pharos Production Inc.](https://www.linkedin.com/in/dmytronasyrov/)
+And [Pharos Production Inc. - Web3, blockchain, fintech, defi software development services](https://pharosproduction.com)
